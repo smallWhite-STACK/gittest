@@ -12,5 +12,9 @@ public class GitTest {
 
 //       掩饰一下正常合并
         System.out.println("正常合并");
+
+
+//        演示非正常提交（conflicts）
+        System.out.println("冲突");
     }
 }
