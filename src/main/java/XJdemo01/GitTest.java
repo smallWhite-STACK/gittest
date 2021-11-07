@@ -9,5 +9,8 @@ public class GitTest {
         System.out.println("你是光，你是电，你是唯一的神话");
         System.out.println("我爱足球");
         System.out.println("hot-fix commit---1");
+
+//       掩饰一下正常合并
+        System.out.println("正常合并");
     }
 }
