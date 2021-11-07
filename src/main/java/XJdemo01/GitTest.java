@@ -20,5 +20,7 @@ public class GitTest {
         System.out.println("hot-fix提交");
 
         System.out.println("我将更新github中的代码");
+        
+        System.out.println("我在github中修改了代码")
     }
 }
