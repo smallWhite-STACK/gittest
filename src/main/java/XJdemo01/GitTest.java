@@ -12,5 +12,7 @@ public class GitTest {
 
 //       掩饰一下正常合并
         System.out.println("正常合并");
+
+        System.out.println("hot-fix提交");
     }
 }
