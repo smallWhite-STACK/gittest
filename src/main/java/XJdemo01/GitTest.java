@@ -16,5 +16,7 @@ public class GitTest {
 
 //        演示非正常提交（conflicts）
         System.out.println("冲突");
+
+        System.out.println("hot-fix提交");
     }
 }
