@@ -18,5 +18,7 @@ public class GitTest {
         System.out.println("冲突");
 
         System.out.println("hot-fix提交");
+
+        System.out.println("我将更新github中的代码");
     }
 }
